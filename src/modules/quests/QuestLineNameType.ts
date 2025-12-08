@@ -33,6 +33,7 @@ export type QuestLineNameType
     | 'Shadows in the Desert'
     | 'A New World'
     | 'Recover the Precious Egg!'
+    | 'An Incurable Disease?'
     | 'Zero\'s Ambition'
     | 'Hollow Truth and Ideals'
     | 'Destiny Deoxys'
